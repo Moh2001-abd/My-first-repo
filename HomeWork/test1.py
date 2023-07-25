@@ -1,1 +1,1 @@
-Print "Hello, test1"
+Hi Test1.
